@@ -1,0 +1,35 @@
+# Nome do plugin: My Lightbox
+
+Exemplo de plugin mostrando a forma correta de trabalhar com jQuery, arquivos de estilo e página de administração.
+
+Documentação de funções, ganchos e APIs:
+
+- [`load_plugin_textdomain()`](https://developer.wordpress.org/reference/functions/load_plugin_textdomain/)
+- [`plugins_loaded`](https://developer.wordpress.org/reference/hooks/plugins_loaded/)
+- [`add_options_page()`](https://developer.wordpress.org/reference/functions/add_options_page/)
+- [`__()`](https://developer.wordpress.org/reference/functions/__/)
+- [`admin_menu`](https://developer.wordpress.org/reference/hooks/admin_menu/)
+- [`get_admin_page_title()`](https://developer.wordpress.org/reference/functions/get_admin_page_title/)
+- [`settings_fields()`](https://developer.wordpress.org/reference/functions/settings_fields/)
+- [`do_settings_sections()`](https://developer.wordpress.org/reference/functions/do_settings_sections/)
+- [`submit_button()`](https://developer.wordpress.org/reference/functions/submit_button/)
+- [`register_setting()`](https://developer.wordpress.org/reference/functions/register_setting/)
+- [`add_settings_section()`](https://developer.wordpress.org/reference/functions/add_settings_section/)
+- [`add_settings_field()`](https://developer.wordpress.org/reference/functions/add_settings_field/)
+- [`admin_init`](https://developer.wordpress.org/reference/hooks/admin_init/)
+- [`get_option()`](https://developer.wordpress.org/reference/functions/get_option/)
+- [`selected()`](https://developer.wordpress.org/reference/functions/selected/)
+- [`esc_html_e()`](https://developer.wordpress.org/reference/functions/esc_html_e/)
+- [`esc_attr()`](https://developer.wordpress.org/reference/functions/esc_attr/)
+- [`absint()`](https://developer.wordpress.org/reference/functions/absint/)
+- [`update_option()`](https://developer.wordpress.org/reference/functions/update_option/)
+- [`register_activation_hook()`](https://developer.wordpress.org/reference/functions/register_activation_hook/)
+- [`esc_url()`](https://developer.wordpress.org/reference/functions/esc_url/)
+- [`admin_url()`](https://developer.wordpress.org/reference/functions/admin_url/)
+- [`plugin_action_links_{$plugin_file}`](https://developer.wordpress.org/reference/hooks/plugin_action_links_plugin_file/)
+- [`wp_enqueue_style()`](https://developer.wordpress.org/reference/functions/wp_enqueue_style/)
+- [`wp_enqueue_script()`](https://developer.wordpress.org/reference/functions/wp_enqueue_script/)
+- [`wp_localize_script()`](https://developer.wordpress.org/reference/functions/wp_localize_script/)
+- [`esc_js()`](https://developer.wordpress.org/reference/functions/esc_js/)
+- [`wp_enqueue_scripts`](https://developer.wordpress.org/reference/hooks/wp_enqueue_scripts/)
+- [`delete_option()`](https://developer.wordpress.org/reference/functions/delete_option/)
