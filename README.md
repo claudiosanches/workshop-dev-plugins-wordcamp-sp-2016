@@ -1,6 +1,6 @@
 # Exemplos de plugins desenvolvidos no workshop "Aprenda a desenvolver plugins no WordPress".
 
-Slides do workshop disponíveis em: <https://speakerdeck.com/claudiosmweb/aprenda-a-desenvolver-plugins-no-wordpress>
+Slides do workshop disponíveis em: <https://speakerdeck.com/claudiosanches/aprenda-a-desenvolver-plugins-no-wordpress>
 
 ## ATENÇÃO:
 
